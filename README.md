@@ -1,1 +1,2 @@
 # odin-recipes
+For this project I am crafting 3 pages of recipes, using html. This project requires the basic knowledge of html which include: making an ordered/unordered list, boilerplate for html, a heading, inserting an image, creating a paragraph, and creating a link to the recipe pages. After completing the html project, I need to be aware of how to upload this project to github using the terminal. This project also made me familiarize myself with how to write a commit message and publish this page on github. 
